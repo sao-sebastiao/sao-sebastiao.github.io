@@ -1,0 +1,17 @@
+/* Layout Elements */
+
+body.body-1 {
+  width: 100%;
+}
+body {
+  background-color: #000;
+}
+video.html-video-1 {
+  position: absolute;
+  width: 100%;
+}
+
+.container-grid.container-1 {
+  width: 100%;
+  height: 100%;
+}
